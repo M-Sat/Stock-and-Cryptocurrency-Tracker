@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+.Python
+build/
+dist/
+*.egg-info/
+*.egg
+.eggs/
+*.spec
+
+# Virtual environments
+env/
+venv/
+.env/
+.venv/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# User data (CSV databases — contain personal info, never commit)
+users.csv
+portfolios.csv
+alerts.csv
+
+# ML artifacts
+*.h5
+*.keras
+*.pb
+saved_model/
+__pycache__/
+
+# Prediction output
+prediction_plot.png
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Logs
+*.log
