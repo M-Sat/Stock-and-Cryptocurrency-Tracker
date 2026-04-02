@@ -1,8 +1,4 @@
-# 📈 Market Pulse
-
 A real-time desktop stock and cryptocurrency tracker built with Python and PyQt5. Track assets, manage your portfolio, set price alerts, and run LSTM-based price predictions — all from a sleek dark-themed desktop interface.
-
-![Market Pulse](icon.png)
 
 ---
 
@@ -18,10 +14,7 @@ A real-time desktop stock and cryptocurrency tracker built with Python and PyQt5
 ---
 
 ## Screenshots
-
-| Home Tab | Prediction Output |
-|----------|------------------|
-| Candlestick chart with live price | LSTM validation vs actual + future projections |
+![Market Pulse](icon.png)
 
 ---
 
